@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Env / secrets
+.env
+
+# Uploaded & sample documents (may contain personal data)
+data/
+uploads/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
